@@ -1,6 +1,3 @@
 burger
 pizza
 Kebab
-Durum
-Gyros
-Chips
