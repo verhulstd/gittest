@@ -3,3 +3,5 @@ pizza
 Kebab
 fries
 Durum
+fastfood6
+fastfood7
