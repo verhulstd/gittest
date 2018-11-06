@@ -3,3 +3,5 @@ cat
 eagle
 Bird
 Horse
+animal6
+animal7
